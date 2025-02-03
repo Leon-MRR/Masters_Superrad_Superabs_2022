@@ -3,7 +3,7 @@
 
 # **Superradiance-Superabsorption Cycle Simulation**  
 
-This repository contains two Python scripts that simulate the dynamics of a **superradiance-superabsorption cycle**, producing various intensity and population graphs. The project was developed in **2022** while I was learning Python for my master's degree project with the help of my friend **João Valeriano** (https://github.com/joaovaleriano), and I later adapted the scripts to **C++**.  
+This repository contains two Python scripts that simulate the dynamics of a **superradiance-superabsorption cycle**, producing various intensity and population graphs. The project was developed in **2022** while I was learning Python for my master's degree project with the help of my good friend **João Valeriano** (https://github.com/joaovaleriano), and I later adapted the scripts to **C++**.  
 
 ## **Project Overview**  
 
